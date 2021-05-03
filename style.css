@@ -1,0 +1,38 @@
+.container {
+  border: 3px solid green;
+  width:50%;
+  top: 0;
+  left: 20%;
+  position: relative;
+}
+
+.header {
+
+}
+
+body {
+  background-color: lightblue;
+}
+img {
+  margin-top: 70px;
+  margin-bottom: 30px;
+  margin-right: 100px;
+  margin-left: 100px;
+  }
+  .p1{
+    color:black
+    margin-top: 10px;
+    margin-bottom: 200px;
+  margin-right: 50px;
+  margin-left: 50px;
+  }
+  p {
+  margin-top: 3px;
+  margin-bottom: 200px;
+  margin-right: 50px;
+  margin-left: 50px;
+  }
+  .p3{
+  font-family: "Lucida Console", "Garamond", Serif;
+  color:lightcoral
+  }
